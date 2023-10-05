@@ -1,7 +1,7 @@
 package org.example;
 
 public class Lanzador {
-    public static void main(String[] args) {
+    public static void mostrarMain() {
         Cuenta cuenta = new Cuenta(10000);
 
         // Crear hilos para cada tipo de transacción
